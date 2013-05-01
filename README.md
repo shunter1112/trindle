@@ -1,4 +1,6 @@
-trindle
+Trindle for shunter.jp
 =======
 
-shunter.jp basic styles written by css
+This css framework is made for my portforio site.  
+
+[__shunter.jp__](http://shunter.jp) 
